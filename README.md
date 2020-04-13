@@ -7,13 +7,13 @@ A modular telegram Python bot running on python3 with an sqlalchemy database.
 Originally a simple group management bot with multiple admin features, it has evolved, becoming extremely modular and 
 simple to use.
 
-Can be found on telegram as [Sara](https://t.me/saraak_bot).
+Can be found on telegram as [Sluty](https://t.me/SlutyBitchBot).
 
 
-Join the [news channel](https://t.me/saraak_gb) if you just want to stay in the loop about new features or
+Join the [news channel](https://t.me/SlutyBot_News) if you just want to stay in the loop about new features or
 announcements.
 
-Alternatively, [find me on telegram](https://t.me/aditya19v)!.
+Alternatively, [find me on telegram](https://t.me/StellaEvy)!.
 
 ## Starting the bot.
 
